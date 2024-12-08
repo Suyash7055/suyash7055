@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h3 align="center">I am an Exception in Main Thread!! 😎</h3>
+<h3 align="center">I am an Suyash Sharma!! 😎</h3>
 
 ###
 

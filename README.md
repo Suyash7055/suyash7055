@@ -90,16 +90,7 @@
 </div>
 <br />
 <br />
-<div align="center">
-  <img src='https://metrics.lecoq.io/Sachinsharma01' /> 
-</div>
-###
 
-<div align="left">
-  <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Sachinsharma01&theme=github-compact' />
-</div>
-
-###
 
 <!--
 **Suyash7055/suyash7055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

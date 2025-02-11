@@ -47,15 +47,7 @@
   <a href="https://github.com/Sachinsharma01/Sachinsharma01/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-###
-## My Badges
-[![@sachinsharma01's Holopin board](https://holopin.me/sachinsharma01)](https://holopin.io/@sachinsharma01)
-<br clear="both">
 
-## Appwrite Creater Card
-<a href="https://makers.appwrite.io/Sachinsharma01">
-    <img src="https://appwrite.io/cards/makers/Sachinsharma01" alt="Sachinsharma01's Maker Card" />
-</a>
 
 ###
 ## 🔥 Streak stats

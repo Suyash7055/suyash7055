@@ -43,19 +43,7 @@
 
 
 
-###
-## 🔥 Streak stats
 
-<div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=Sachinsharma01&theme=midnight-purple&border_radius=10&background=DD272700"  />
-</div>
-
-###
-![Snake animation](https://github.com/Sachinsharma01/Sachinsharma01/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <img height="" src="https://github-profile-trophy.vercel.app/?username=Sachinsharma01&margin-w=40&margin-h=5"  />
-</div>
 
 ### 💻 Software and tools I use
 

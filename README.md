@@ -58,8 +58,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Teams" src="https://img.shields.io/badge/Microsoft%20Teams-0078d7.svg?logo=microsoft-teams&logoColor=white"></a>
     <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Goolgle%20Chrome-0078d7.svg?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Robo 3T" src="https://img.shields.io/badge/Robo%203T-0078d7.svg?logo=robo-3t&logoColor=white"></a>
-    <a href="#"><img alt="Robo 3T" src="https://img.shields.io/badge/Slack-0078d7.svg?logo=slack&logoColor=white"></a>
 </p>
 
 
